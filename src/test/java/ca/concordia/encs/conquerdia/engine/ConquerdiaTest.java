@@ -1,13 +1,13 @@
-package ca.concordia.encs.domination.engine;
+package ca.concordia.encs.conquerdia.engine;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
 
 /**
- * Unit test for Domination.
+ * Unit test for Conquerdia.
  */
-public class DominationTest
+public class ConquerdiaTest
     extends TestCase
 {
     /**
@@ -15,7 +15,7 @@ public class DominationTest
      *
      * @param testName name of the test case
      */
-    public DominationTest(String testName )
+    public ConquerdiaTest(String testName )
     {
         super( testName );
     }
@@ -25,7 +25,7 @@ public class DominationTest
      */
     public static Test suite()
     {
-        return new TestSuite( DominationTest.class );
+        return new TestSuite( ConquerdiaTest.class );
     }
 
     /**
