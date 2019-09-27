@@ -44,7 +44,7 @@
                             <transformers>
                                 <transformer
                                         implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>ca.concordia.encs.conquerdia.engine.Conquerdia</mainClass>
+                                    <mainClass>ca.concordia.encs.conquerdia.engine.Starter</mainClass>
                                 </transformer>
                             </transformers>
                         </configuration>
