@@ -1,3 +1,3 @@
 [![Build Status](https://travis-ci.com/mkshiblu/conquerdia.svg?branch=master)](https://travis-ci.com/mkshiblu/conquerdia)
 
-[![Coverage Status](https://coveralls.io/repos/github/mkshiblu/conquerdia/badge.svg?branch=master)](https://coveralls.io/github/mkshiblu/conquerdia?branch=master)
+[![codecov](https://codecov.io/gh/mkshiblu/conquerdia/branch/master/graph/badge.svg)](https://codecov.io/gh/mkshiblu/conquerdia)
